@@ -29,11 +29,11 @@ Machine Learning: Prophet, Scikit-learn
 # 📁 Project Structure
 covid-19-dashboard/
 ├── app.py                 # Main Dash application
+
 ├── model_utils.py         # Data processing and ML functions
+
 ├── requirements.txt       # Python dependencies
-├── Dockerfile            # Container configuration
-├── README.md             # This file
-└── .gitignore           # Git ignore rules
+
 
 # 🧠 Machine Learning Models
 Prophet
