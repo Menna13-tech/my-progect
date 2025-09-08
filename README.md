@@ -39,6 +39,8 @@ model_utils.py         # Data processing and ML functions
 
 requirements.txt       # Python dependencies
 
+time_series_covid_19_confirmed .csv  #data used
+
 
 # 🧠 Machine Learning Models
 Prophet
