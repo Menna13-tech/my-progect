@@ -27,6 +27,7 @@ Visualization: Plotly, Plotly Express
 Machine Learning: Prophet, Scikit-learn
 
 # 📁 Project Structure
+Untitled12             #Python notebook (data cleaning and modeling)
 covid-19-dashboard/
 
 app.py                 # Main Dash application
