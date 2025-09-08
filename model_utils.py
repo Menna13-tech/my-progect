@@ -212,5 +212,5 @@ def get_model_comparison(country_name):
         'random_forest': {'dates': rf_dates_list, 'values': rf_values_list, 'metrics': rf_metrics}
     }
 # Load data once when module is imported
-cleaned_data = load_and_clean_data()
+
 available_countries = get_available_countries()
