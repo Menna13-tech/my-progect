@@ -1,7 +1,8 @@
 # my-progect
 AI progect about covid-19 Data engineer &amp; modeling
 
-#🌟 Features
+
+# 🌟 Features
 📈 Forecast & Trends: Prophet model forecasting and trend analysis
 
 🌍 World Map: Interactive choropleth map of global COVID-19 cases
@@ -14,7 +15,7 @@ AI progect about covid-19 Data engineer &amp; modeling
 
 🎯 Interactive Controls: Country selection dropdown and tab navigation
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 Backend: Python 3.9+
 
 Web Framework: Plotly Dash
@@ -25,7 +26,7 @@ Visualization: Plotly, Plotly Express
 
 Machine Learning: Prophet, Scikit-learn
 
-#📁 Project Structure
+# 📁 Project Structure
 covid-19-dashboard/
 ├── app.py                 # Main Dash application
 ├── model_utils.py         # Data processing and ML functions
@@ -34,7 +35,7 @@ covid-19-dashboard/
 ├── README.md             # This file
 └── .gitignore           # Git ignore rules
 
-#🧠 Machine Learning Models
+# 🧠 Machine Learning Models
 Prophet
 Time series forecasting developed by Facebook
 
@@ -49,11 +50,11 @@ Multi-output forecasting capability
 
 Comparative analysis with Prophet
 
-#📊 Data Source
+# 📊 Data Source
 Data is fetched from:
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 
-#🙏 Acknowledgments
+# 🙏 Acknowledgments
 Johns Hopkins University for providing COVID-19 data
 
 Plotly for the Dash framework
